@@ -3,10 +3,10 @@
 GraphQL Exercise using GoodReads API.
 
 ## How to use
-* Clone this repo and run 'npm install'.
-* Create a '.env' file in root directory. Within it, declare a 'GOODREADS_API_KEY' variable using your API key.
-* Start the server using 'nodemon server.js'.
-* In your browser, visit 'localhost:8000/graphql' to start querying
+* Clone this repo and run `npm install`.
+* Create a `.env` file in root directory. Within it, declare a `GOODREADS_API_KEY` variable using your API key.
+* Start server using `nodemon server.js`.
+* In your browser, visit `localhost:8000/graphql` to start querying
 
 Try this sample query
 ```
